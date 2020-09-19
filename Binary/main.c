@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 #include<stdlib.h>
 enum gates{ NOT=1, AND, OR, NAND, NOR, XOR, XNOR, EXIT };
 int main()
